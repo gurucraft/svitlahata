@@ -1,0 +1,43 @@
+# From Eclipse.gitignore
+.project
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+
+
+# From Maven.gitignore
+target/
+
+# From IntelliJ.gitignore
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Other
+reports
+.pmd
+*.log
+*.lck
+*.FDC
+/.clover
+*.orig
+
+.vagrant
+*.class
+*.ear
+classes.jar
+resources.jar
+license.read
+
+resourceBundles/
+*/out/
+classes/
+*/.idea
